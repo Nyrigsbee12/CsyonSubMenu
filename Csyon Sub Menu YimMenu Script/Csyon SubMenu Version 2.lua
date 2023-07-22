@@ -13,7 +13,7 @@
 --────────────────────────────────────────────────────────────────────────────────────────
 
 --[[SET NO CLIP CONTROLS BELOW
-USE LINK BELOW TO FIND THE KEYCODE VALUES YOU NEED
+USE LINK BELOW TO FIND THE KEYCODE VALUES YOU NEED Thanks to L7NEG for allowing use he's KeyCodes
 https://keycodeinfo.l7neg.repl.co/developers/ ]]
 
 go_up = 16
